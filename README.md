@@ -1,5 +1,6 @@
 <h1>Projeo Cordel de Milton Duarte</h1>
 <p>Projeto do curso de HTML5 e CSS3 do <a href="https://www.youtube.com/@CursoemVideo" target="_blank">Curso em Video</a>!</p>
+<p>Tecnologias utilizadas: HTML5, CSS3</p>
 <hr />
 <br>
 <h2>Overview do projeto</h2>
